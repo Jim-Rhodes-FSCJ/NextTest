@@ -1,3 +1,7 @@
 # Jim Rhodes
 # 4/1/2025
 # This is a program that accepts and adds two numbers
+
+x = 1
+y = 2
+z = x + y
